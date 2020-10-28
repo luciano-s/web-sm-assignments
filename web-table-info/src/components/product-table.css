@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main-div > table{
+    margin:0 auto;
+    padding-top: 4em;
+}
+
+.main-div > table > thead {
+    background-color: #000c66;
+    height: 6vh;
+    color: white;
+}
+
+th{
+    width: 10em;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+td{
+    height: 15vh;
+    width: 15vw;
+}
+
+.soft-blue{
+    background-color: #7ec8e3;
+    color: black;
+}
+
+tr{
+    background-color: #050A30;
+    color: white;
+}
+
+tr:hover{
+    background-color: #75E6DA;
+}
+
